@@ -41,7 +41,7 @@ If you want to train the model yourself:
 jupyter notebook
 ```
 
-4. Run all cells up to the "Testing the Models" section
+4. Run all cells up to the "Model Training" section
 
 5. Run the final model training cells (the last model in the notebook):
 ```python
